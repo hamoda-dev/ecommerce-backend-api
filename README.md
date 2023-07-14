@@ -1,2 +1,2 @@
-# ecommerce-backend-api
+# Ecommerce-backend-api
 E commerce backend api build using NodeJS
