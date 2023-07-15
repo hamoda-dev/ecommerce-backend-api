@@ -1,7 +1,7 @@
 name: ESLint airbnb code guide
 
 on:
-  ['pull_request']
+  [push]
 
 jobs:
   eslint:
